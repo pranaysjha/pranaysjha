@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysjhaide_progress=true)](https://github.com/pranaysjha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysjha&hide_progress=true)](https://github.com/pranaysjha/github-readme-stats)
 
 <!--
 **pranaysjha/pranaysjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
